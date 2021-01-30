@@ -6669,7 +6669,7 @@ CREATE TABLE `ps_shop_url` (
 
 LOCK TABLES `ps_shop_url` WRITE;
 /*!40000 ALTER TABLE `ps_shop_url` DISABLE KEYS */;
-INSERT INTO `ps_shop_url` VALUES (1,1,'146.59.236.45','146.59.236.45','/','',1,1);
+INSERT INTO `ps_shop_url` VALUES (1,1,'146.59.236.45','146.59.236.45','146.59.236.45/greenpurpleled/','',1,1);
 /*!40000 ALTER TABLE `ps_shop_url` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -8130,4 +8130,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-01-30 12:52:02
+-- Dump completed on 2021-01-30 12:55:29
